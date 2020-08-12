@@ -1,4 +1,4 @@
-# An easy way to use google translation
+# An easy way to use google translation in python
 Using pypuppeteer to get cookie. use the cookie can avoid being blocked.
 
 
